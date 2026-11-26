@@ -9,4 +9,3 @@
 | --- | --- |
 | gugudan.py | 단을 입력하면 구구단을 출력하는 함수 | 
 | turtle_art.py | 터틀로 그린 내가 생각하는 가장 멋있는 도형 |
-## 실행 방법 python gugudan.py
