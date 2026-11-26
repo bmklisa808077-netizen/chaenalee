@@ -1,6 +1,4 @@
 
-![상단 배너](https://capsule-render.vercel.app/api?type=waving&color=FFE9A3&height=180&section=header&text=My%20Python%20Diary&fontSize=40&fontColor=85612F)
-
 # 🐰 11월 26일자 파이썬 Repository
 
 ![우사기](https://r2.chiikawawallpaper.com/wallpaper/gif/8c7e20ea2b244367a413df9c26fb92e7%20(1).gif)
@@ -32,4 +30,3 @@
 
 **U・RA・YA・HA !!**
 
-![하단 배너](https://capsule-render.vercel.app/api?type=waving&color=FFE9A3&height=100&section=footer)
