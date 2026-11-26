@@ -3,7 +3,7 @@
 
 # 🐰 11월 26일자 파이썬 Repository
 
-![우사기](https://kr.pinterest.com/haaayooni/%EC%9A%B0%EC%82%AC%EA%B8%B0/)
+![우사기](https://r2.chiikawawallpaper.com/wallpaper/gif/8c7e20ea2b244367a413df9c26fb92e7%20(1).gif)
 
 > 오늘부터 나는 개발자다. 한 줄씩, 한 커밋씩.
 
